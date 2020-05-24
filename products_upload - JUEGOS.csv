@@ -1,0 +1,11 @@
+Nombre del producto,SKU,Precio,Precio rebajado,Descripción,Inventario de seguimiento,Cantidad,Pedido pendiente,Peso,Largo,Ancho,Alto,Categoría de impuestos,Oculto,Categoría,URL de la imagen,Título de SEO,Desc. de SEO,Opción1 nombre,Opción1 valores,Opción2 nombre,Opción2 valores,Opción3 nombre,Opción3 valores,Nombre de Add-on1,Tipo de Add-on1,Obligatorio para Add-on1,Valores de Add-on1,Nombre de Add-on2,Tipo de Add-on2,Obligatorio para Add-on2,Valores de Add-on2,Nombre de Add-on3,Tipo de Add-on3,Obligatorio para Add-on3,Valores de Add-on3
+J-001,J-001,324,,JUEGO CRUZ COLORES,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-001.jpg,,,,,,,,,,,,,,,,,,,,
+J-002,J-002,220,,JUEGO TRIANGULO CON CORAZONES,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-002.jpg,,,,,,,,,,,,,,,,,,,,
+J-003,J-003,248,,JUEGO TREBOL CORAZON,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-003.jpg,,,,,,,,,,,,,,,,,,,,
+J-004,J-004,688,,JUEGO ROSETA,TRUE,10,FALSE,6.71,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-004.jpg,,,,,,,,,,,,,,,,,,,,
+J-005,J-005,436,,JUEGO CHURUMBELA,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-005.jpg,,,,,,,,,,,,,,,,,,,,
+J-006,J-006,396,,JUEGO GOTA PIEDRITAS,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-006.jpg,,,,,,,,,,,,,,,,,,,,
+J-007,J-007,420,,JUEGO GOTA BLANCO/NEGRO,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-007.jpg,,,,,,,,,,,,,,,,,,,,
+J-008,J-008,338,,JUEGO PERLA,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-008.jpg,,,,,,,,,,,,,,,,,,,,
+J-009,J-009,612,,JUEGO OVAL C/CADENA,TRUE,10,FALSE,0,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-009.jpg,,,,,,,,,,,,,,,,,,,,
+J-010,J-010,542,,JUEGO REDONDO C/CADENA,TRUE,10,FALSE,3.45,,,,,FALSE,JUEGOS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/J-010.jpg,,,,,,,,,,,,,,,,,,,,

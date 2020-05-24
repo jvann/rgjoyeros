@@ -1,0 +1,6 @@
+Nombre del producto,SKU,Precio,Precio rebajado,Descripción,Inventario de seguimiento,Cantidad,Pedido pendiente,Peso,Largo,Ancho,Alto,Categoría de impuestos,Oculto,Categoría,URL de la imagen,Título de SEO,Desc. de SEO,Opción1 nombre,Opción1 valores,Opción2 nombre,Opción2 valores,Opción3 nombre,Opción3 valores,Nombre de Add-on1,Tipo de Add-on1,Obligatorio para Add-on1,Valores de Add-on1,Nombre de Add-on2,Tipo de Add-on2,Obligatorio para Add-on2,Valores de Add-on2,Nombre de Add-on3,Tipo de Add-on3,Obligatorio para Add-on3,Valores de Add-on3
+A-090,A-090,274,,ARGOLLA C/PIEDRA LINEAS SATINADAS,TRUE,10,FALSE,0,,,,,FALSE,ARGOLLAS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/A-090.jpg,,,,,,,,,,,,,,,,,,,,
+A-091,A-091,432,,ARGOLLA LISA C/PIEDRAS,TRUE,10,FALSE,0,,,,,FALSE,ARGOLLAS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/A-091.jpg,,,,,,,,,,,,,,,,,,,,
+A-092,A-092,198,,ARGOLLA ONDITAS,TRUE,10,FALSE,0,,,,,FALSE,ARGOLLAS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/A-092.jpg,,,,,,,,,,,,,,,,,,,,
+A-093,A-093,198,,ARGOLLA COMETA,TRUE,10,FALSE,0,,,,,FALSE,ARGOLLAS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/A-093.jpg,,,,,,,,,,,,,,,,,,,,
+A-094,A-094,198,,ARGOLLA,TRUE,10,FALSE,0,,,,,FALSE,ARGOLLAS,https://raw.githubusercontent.com/jvann/rgjoyeros/master/assets/A-094.jpg,,,,,,,,,,,,,,,,,,,,
